@@ -1,0 +1,12 @@
+# Global ignores
+node_modules/
+dist/
+output/
+input/
+.env
+*.log
+*.tsbuildinfo
+
+# IDE files
+.vscode/
+.idea/
